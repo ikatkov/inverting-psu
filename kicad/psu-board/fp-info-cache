@@ -1,0 +1,330 @@
+77687016657624
+!my-kicad-library
+ARDUINO_PRO_MINI
+
+
+0
+32
+25
+!my-kicad-library
+ARDUINO_PRO_MINI_NO_A5
+
+
+0
+30
+23
+!my-kicad-library
+ARDUINO_PRO_MINI_NO_PRG_HEADER
+
+
+0
+26
+24
+!my-kicad-library
+ARDUINO_PRO_MINI_NO_PRG_HEADER_NO_A5
+
+
+0
+24
+22
+!my-kicad-library
+BAT_BK-18650-PC4
+
+
+0
+4
+4
+!my-kicad-library
+BNC_horizontal
+Dual front isolated BNC plug (https://www.winconn.com/wp-content/uploads/364A2595.pdf)
+Dual BNC Horizontal Isolated
+0
+3
+2
+!my-kicad-library
+Battery-1616-tabs-diy
+http://www.keyelco.com/product-pdf.cfm?p=726
+CR2032 BR2032 BatteryHolder Battery
+0
+2
+2
+!my-kicad-library
+Bourns-3362P-T-0-0-MFG
+
+
+0
+3
+3
+!my-kicad-library
+Buzzer-GT-0905A
+
+
+0
+2
+2
+!my-kicad-library
+CR2032_Holder
+
+
+0
+2
+2
+!my-kicad-library
+Connector_Mini-DIN_Female_6Pin_2rows
+A footprint for the generic 6 pin Mini-DIN through hole connector with shell.
+mini din 6pin connector socket
+0
+9
+7
+!my-kicad-library
+DIP-8_SMDSocket_diy
+8-lead though-hole mounted DIP package, row spacing 8.89 mm (350 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 8.89mm 350mil SMDSocket LongPads
+0
+8
+8
+!my-kicad-library
+D_4148_SMD
+SOD80C
+
+0
+2
+2
+!my-kicad-library
+Filter_EMC
+Mini-Circuits Filter SMD 1206 https://ww2.minicircuits.com/case_style/FV1206.pdf
+Mini-Circuits Filter SMD 1206
+0
+4
+3
+!my-kicad-library
+HLK-PM01
+
+
+0
+4
+4
+!my-kicad-library
+Heatsink_50x13x30mm
+Heatsink, 125x35x50mm, 3 fixation holes 3.2mm
+heatsink
+0
+0
+0
+!my-kicad-library
+LCD_Display
+
+
+0
+16
+16
+!my-kicad-library
+LED_5050
+http://cdn.sparkfun.com/datasheets/Components/LED/5060BRG4.pdf
+RGB LED 5050-6
+0
+2
+2
+!my-kicad-library
+LM2596_StepDown
+
+
+0
+6
+6
+!my-kicad-library
+LM2596_StepDown_pot
+
+
+0
+8
+8
+!my-kicad-library
+MC306-xtal
+MC-306 32.7680K-E3:ROHS-1
+Crystal or Oscillator
+0
+4
+4
+!my-kicad-library
+MP2315_StepDown
+
+
+0
+4
+4
+!my-kicad-library
+MSOP8
+
+
+0
+8
+8
+!my-kicad-library
+Potentiometer_RV09_Single_Vertical
+Potentiometer, vertical, Alps RK09K Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09K/RK09K_list.html
+Potentiometer vertical Alps RK09K Single
+0
+3
+3
+!my-kicad-library
+RELAY_G3MB-202P
+
+
+0
+4
+4
+!my-kicad-library
+Reostat_3296W_Vertical
+Potentiometer, vertical, Bourns 3296W, https://www.bourns.com/pdfs/3296.pdf
+Potentiometer vertical Bourns 3296W
+0
+6
+2
+!my-kicad-library
+RotarySwitch_2P4T
+
+
+0
+10
+10
+!my-kicad-library
+SMA-EDGE-S
+
+
+0
+5
+4
+!my-kicad-library
+SOIC28
+TM1638
+Integrated Circuit
+0
+28
+28
+!my-kicad-library
+SOP-8
+SOP-8
+Connector
+0
+8
+8
+!my-kicad-library
+SOP8-exposed-pads
+SOP-8 (Exposed Pad) Package (Unit: mm)
+Integrated Circuit
+0
+9
+9
+!my-kicad-library
+SOP65P640X120-8N
+FS8205A
+MOSFET (N-Channel)
+0
+8
+8
+!my-kicad-library
+SOT95P280X145-6N
+SOT-23-6
+Integrated Circuit
+0
+6
+6
+!my-kicad-library
+SSD1306-0.91-OLED-4pin-128x32
+
+
+0
+4
+4
+!my-kicad-library
+SolderWire-slot
+Soldered wire connection, for a single 0.1 mm² wire, basic insulation, conductor diameter 0.4mm, outer diameter 1mm, size source Multi-Contact FLEXI-E 0.1 (https://ec.staubli.com/AcroFiles/Catalogues/TM_Cab-Main-11014119_(en)_hi.pdf), bend radius 3 times outer diameter, generated with kicad-footprint-generator
+connector wire 0.1sqmm
+0
+1
+1
+!my-kicad-library
+TO-92_pin2_forward_HandSolder
+TO-92 leads molded, narrow, drill 0.75mm, handsoldering variant with enlarged pads (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+!my-kicad-library
+TO-94
+DCDC-Converter, RECOM, RECOM_R-78S-0.1, SIP-4, pitch 2.54mm, package size 11.6x8.5x10.4mm^3, https://www.recom-power.com/pdf/Innoline/R-78Sxx-0.1.pdf
+dc-dc recom buck sip-4 pitch 2.54mm
+0
+4
+4
+!my-kicad-library
+TP4056-18650
+
+
+0
+6
+6
+!my-kicad-library
+Temp_SMD_POT_3296W_Vertical
+Potentiometer, vertical, Bourns 3296W, https://www.bourns.com/pdfs/3296.pdf
+Potentiometer vertical Bourns 3296W
+0
+11
+3
+!my-kicad-library
+Temp_SMD_Reostat_3296W_Vertical
+Potentiometer, vertical, Bourns 3296W, https://www.bourns.com/pdfs/3296.pdf
+Potentiometer vertical Bourns 3296W
+0
+6
+2
+!my-kicad-library
+Thermocouple module
+Pololu Breakout 16-pin 15.2x20.3mm 0.6x0.8\
+Pololu Breakout
+0
+5
+5
+!my-kicad-library
+WAGO_250-204_4_terminalblock
+
+
+0
+4
+4
+!my-kicad-library
+XL6009-DPAK
+
+
+0
+6
+5
+!my-kicad-library
+inductor-3filar
+Current-compensated Chokes, Schaffner, RN242-04, 18.0mmx31.0mm https://www.schaffner.com/products/download/product/datasheet/rn-series-common-mode-chokes-new/
+chokes schaffner tht
+0
+6
+6
+!my-kicad-library
+module_ina3221
+
+
+0
+10
+10
+!my-kicad-library
+module_ina3221-2ch
+
+
+0
+8
+8
+!my-kicad-library
+salvaged-rotary
+
+
+0
+5
+3
